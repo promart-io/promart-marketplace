@@ -1,7 +1,7 @@
-# Promart - Marketplace
+# Promart Modules - Store
 
 [![Eclipse License](http://img.shields.io/badge/license-Eclipse-brightgreen.svg)](LICENSE)
-[![GitHub contributors](https://img.shields.io/github/contributors/promart-io/promart-marketplace.svg)](https://github.com/promart-io/promart-marketplace/graphs/contributors)
+[![GitHub contributors](https://img.shields.io/github/contributors/promart-io/promart-modules-store.svg)](https://github.com/promart-io/promart-modules-store/graphs/contributors)
 
 
 ## Overview
